@@ -1,4 +1,4 @@
-//matrix multiplication 
+//matrix multiplication on arrays with predefined sizes
 #include <cstdlib>
 #include <ctime>
 #include <iostream>
