@@ -1,3 +1,4 @@
+//addition of two linear arrays 
 #include <iostream>
 using namespace std;
 
