@@ -1,3 +1,4 @@
+//multiplication of 2 linear arrays
 #include <iostream>
 using namespace std;
 
